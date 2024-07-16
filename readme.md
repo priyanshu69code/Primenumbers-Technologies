@@ -17,8 +17,8 @@ This project is a web scraper that extracts information about registered project
 
 1. Clone the repository:
    ```
-   git clone [your-repository-url]
-   cd [your-project-directory]
+   git clone https://github.com/priyanshu69code/Primenumbers-Technologies
+   cd Primenumbers-Technologies
    ```
 
 2. Create a virtual environment:
@@ -58,7 +58,7 @@ This project is a web scraper that extracts information about registered project
 
 2. Run the main script:
    ```
-   python [your-main-script-name].py
+   python main.py
    ```
 
 ## Project Structure
