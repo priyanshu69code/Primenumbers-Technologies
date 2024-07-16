@@ -92,10 +92,3 @@ The scraper generates a CSV file named `project_data.csv` with the following col
 
 - If you encounter issues with ChromeDriver, ensure it's properly installed and its version matches your Chrome browser version.
 - Adjust the wait times in the script if the page is not loading completely before scraping attempts.
-
-## Disclaimer
-
-Ensure you have permission to scrape the target website and that you comply with their terms of service and robots.txt file.
-```
-
-Would you like me to modify or add any specific information to this README?
